@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alexei-lapin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexei-lapin" height="30" width="40" /></a>
 <a href="https://t.me/aleksei_lapin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="aleksei_lapin" height="30" width="40" /></a>
+<a href="mailto:a.lapin03@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="a.lapin03@gmail.com" height="30" width="40" /></a>
 </p>
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=aalexuser&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalexuser&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/aalexuser/github-readme-stats) |
