@@ -12,9 +12,6 @@
   <a href="https://github.com/AaLexUser/Resume/blob/main/general/Aleksei_Lapin_CV.pdf">
     <img src="https://img.shields.io/badge/resume-green?color=blue&style=for-the-badge&logo=readdotcv&logoColor=white&&s=500" alt="Resume Badge"/>
   </a>
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 ### :man_technologist: About Me :
