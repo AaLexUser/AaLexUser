@@ -9,7 +9,7 @@
   <a href="mailto:a.lapin03@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" alt="Mail Badge"/>
   </a>
-  <a href="https://github.com/AaLexUser/Resume/blob/main/general/Aleksei_Lapin_CV.pdf">
+  <a href="https://github.com/AaLexUser/Resume/blob/main/ru/general/Aleksei_Lapin_CV.pdf">
     <img src="https://img.shields.io/badge/resume-green?color=blue&style=for-the-badge&logo=readdotcv&logoColor=white&&s=500" alt="Resume Badge"/>
   </a>
 </div>
