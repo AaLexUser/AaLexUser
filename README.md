@@ -15,7 +15,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a 3rd grade student 👨‍🎓 of ITMO University, Saint Petersburg, Russia
+I am a 4rd grade student 👨‍🎓 of ITMO University, Saint Petersburg, Russia
 - :telescope: I am studying in the direction of computer science and software engineering.
 
 - :seedling: Improving my skills in software and system development.
