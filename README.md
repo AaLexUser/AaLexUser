@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexei Lapin</h1>
+<h1 align="center">Hi there 👋, My name is Aleksei</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </div>
@@ -14,36 +14,38 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
-I am a 4th grade student 👨‍🎓 of ITMO University, Saint Petersburg, Russia
-- :telescope: I am studying in the direction of computer science and software engineering.
+### :man_technologist: AI Engineer at <a href="https://itmo-nss-team.github.io/"><img src="https://github.com/user-attachments/assets/10223393-477b-4d67-a9f0-39122f88afff" height="50" align="center"/>
+- 🔭 Doing cool things with LLMs
+- 🎓 Bachelor's degree in Computer Science and Software Engineering from <a href="https://en.itmo.ru/"><img src="https://github.com/user-attachments/assets/3e02a157-724e-4064-a9d2-cf41c0caa264" height="30" align="center">
+- 🛠️ Maintainer of <a href="https://github.com/aimclub/FEDOT.LLM"><img src="https://github.com/user-attachments/assets/5b885bf6-b03a-43ed-87f4-7e347870074b" height="30" align="top"></a>
 
-- :seedling: Improving my skills in software and system development.
-
-- :zap: In my free time, I do pet projects and read tech books.
 ---
 
-<h3 align="left">🔥 My Stats :</h3>
+## Contacts
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aalexuser&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=aalexuser&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats/tree/master)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalexuser&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats/tree/master)
+Feel free to reach out to me on [Telegram](https://t.me/aleksei_lapin).
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aalexuser&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aalexuser&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aalexuser&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aalexuser&theme=github) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aalexuser&theme=github)
 
 ---
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" **alt="Cmake" width="40" height="40"/>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-                  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" **alt="Cmake" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  </p>
