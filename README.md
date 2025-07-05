@@ -14,10 +14,10 @@
   </a>
 </div>
 
-### :man_technologist: AI Engineer at <a href="https://itmo-nss-team.github.io/"><img src="https://github.com/user-attachments/assets/10223393-477b-4d67-a9f0-39122f88afff" height="50" align="center"/>
+### :man_technologist: AI Engineer at <a href="https://itmo-nss-team.github.io/"><img src="https://github.com/user-attachments/assets/10223393-477b-4d67-a9f0-39122f88afff" width="100" align="center"/>
 - 🔭 Doing cool things with LLMs
-- 🎓 Bachelor's degree in Computer Science and Software Engineering from <a href="https://en.itmo.ru/"><img src="https://github.com/user-attachments/assets/3e02a157-724e-4064-a9d2-cf41c0caa264" height="30" align="center">
-- 🛠️ Maintainer of <a href="https://github.com/aimclub/FEDOT.LLM"><img src="https://github.com/user-attachments/assets/5b885bf6-b03a-43ed-87f4-7e347870074b" height="30" align="top"></a>
+- 🎓 Bachelor's degree in Computer Science and Software Engineering from <a href="https://en.itmo.ru/"><img src="https://github.com/user-attachments/assets/3e02a157-724e-4064-a9d2-cf41c0caa264" width="100" align="center">
+- 🛠️ Maintainer of <a href="https://github.com/aimclub/FEDOT.LLM"><img src="https://github.com/user-attachments/assets/5b885bf6-b03a-43ed-87f4-7e347870074b" width="100" align="top"></a>
 
 ---
 
